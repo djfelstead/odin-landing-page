@@ -4,8 +4,6 @@ body {
     margin: 0;
 }
 
-/* banner flexbox 1 */
-
 header {
     display: flex;
     justify-content: space-between;
@@ -30,8 +28,6 @@ header ul {
     color: #e5e7eb;
     white-space: nowrap;
 }
-
-/* banner flexbox 2 */
 
 .container1 {
     display: flex;
